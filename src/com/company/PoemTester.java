@@ -23,3 +23,23 @@ public class PoemTester {
 
     }
 }
+//        12
+//        Free Verse
+//
+//        Haiku
+//        3
+//        7
+//        ta-ta-ta-ta-ta
+//        ta-ta-ta-ta-ta-ta-ta
+//        ta-ta-ta-ta-ta
+//
+//
+//        Limerick
+//        5
+//        9
+//        6
+//        ta-ta-ta-ta-ta-ta-ta-ta-ta
+//        ta-ta-ta-ta-ta-ta-ta-ta-ta
+//        ta-ta-ta-ta-ta-ta
+//        ta-ta-ta-ta-ta-ta
+//        ta-ta-ta-ta-ta-ta-ta-ta-ta

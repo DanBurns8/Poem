@@ -13,15 +13,10 @@ public class Limerick extends Poem {
         }
     }
     public void printRhythm(){
-        String ta="";
-        for(int i=1; i<=getNumlines(); i++){
-            for(int j=0; j<getSyllables(i); j++){
-                System.out.print("ta-");
-                ta+="ta-";
-            }
-            ta=ta.substring(0,ta.length()-1);
-            ta+="\n";
+        for(int i=1; i<=getNumlines();i++){
+            printTa(getSyllables(i));
+            System.out.println("ta");
         }
-        System.out.println(ta);
+        System.out.println();
     }
 }
